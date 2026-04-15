@@ -11,6 +11,7 @@ The goal of this project is to:
 - Visualize relationships between variables and survival outcomes
 
 ## Repository Structure
+```bash
 project-name/
 ├── data/
 │ ├── seer 17/ # Original dataset
